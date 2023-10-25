@@ -1,0 +1,92 @@
+[
+    {
+        "book_name": "西方哲学史",
+        "author": "Bertrand Russell",
+        "classify": "哲学史",
+        "price": 49.99,
+        "publish_date": "2018-04",
+        "press": "Routledge",
+        "summary": "这本书回顾了西方哲学的历史发展，从古希腊哲学到现代哲学思想，涵盖了众多哲学家和哲学流派。"
+    },
+    {
+        "book_name": "存在与时间",
+        "author": "Martin Heidegger",
+        "classify": "现象学",
+        "price": 39.99,
+        "publish_date": "1927",
+        "press": "Vrin",
+        "summary": "这本书是现象学和存在主义的经典著作，探讨了存在的本质和时间的意义。"
+    },
+    {
+        "book_name": "道德原则与行动理论",
+        "author": "David Ross",
+        "classify": "道德哲学",
+        "price": 34.99,
+        "publish_date": "2002-09",
+        "press": "Hackett Publishing",
+        "summary": "该书讨论了道德原则和行动理论，探究了伦理学中的基本概念和道德决策的原则。"
+    },
+    {
+        "book_name": "符号、信仰和神话",
+        "author": "Mircea Eliade",
+        "classify": "宗教哲学",
+        "price": 29.99,
+        "publish_date": "1969",
+        "press": "Harper & Row",
+        "summary": "这本书研究了宗教和神话在人类文化中的重要性，以及它们对信仰和意义的影响。"
+    },
+    {
+        "book_name": "人类的存在",
+        "author": "Jean-Paul Sartre",
+        "classify": "存在主义",
+        "price": 36.99,
+        "publish_date": "1946",
+        "press": "Gallimard",
+        "summary": "这本书探讨了存在主义哲学的核心思想，包括自由、责任和孤独等主题。"
+    },
+    {
+        "book_name": "伦理学原理",
+        "author": "John Stuart Mill",
+        "classify": "伦理学",
+        "price": 32.99,
+        "publish_date": "1863",
+        "press": "Penguin Classics",
+        "summary": "该书介绍了伦理学的基本原则，包括幸福原则和自由原则，强调个体的权利和幸福。"
+    },
+    {
+        "book_name": "知识与信仰",
+        "author": "Alvin Plantinga",
+        "classify": "宗教哲学",
+        "price": 31.99,
+        "publish_date": "2015-11",
+        "press": "Oxford University Press",
+        "summary": "这本书探讨了知识、信仰和神的存在之间的关系，是神学和哲学的交叉领域研究。"
+    },
+    {
+        "book_name": "伦理学的地平线",
+        "author": "Emmanuel Levinas",
+        "classify": "伦理学",
+        "price": 27.99,
+        "publish_date": "1984",
+        "press": "Martinus Nijhoff",
+        "summary": "该书探讨了伦理学的哲学基础，强调他者的重要性和伦理关系的本质。"
+    },
+    {
+        "book_name": "人性的善与恶",
+        "author": "Jean-Jacques Rousseau",
+        "classify": "政治哲学",
+        "price": 33.99,
+        "publish_date": "1755",
+        "press": "Penguin Classics",
+        "summary": "这本书讨论了人性的本性，探究了人类社会和政治制度的影响。"
+    },
+    {
+        "book_name": "宗教的未来",
+        "author": "Richard Rorty, Gianni Vattimo, Santiago Zabala",
+        "classify": "宗教哲学",
+        "price": 29.99,
+        "publish_date": "2005-08",
+        "press": "Columbia University Press",
+        "summary": "本书讨论了宗教的未来和宗教哲学在当代世界中的地位，涵盖了多个宗教和世界观。"
+    }
+]

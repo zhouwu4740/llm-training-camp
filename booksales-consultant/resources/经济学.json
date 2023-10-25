@@ -1,0 +1,92 @@
+[
+    {
+        "book_name": "经济学原理",
+        "author": "N. Gregory Mankiw",
+        "classify": "经济学",
+        "price": 69.99,
+        "publish_date": "2020-01",
+        "press": "Cengage Learning",
+        "summary": "这本书介绍了经济学的基本原理，包括供需关系、市场结构、货币政策等主题，是经济学入门的经典教材。"
+    },
+    {
+        "book_name": "发展经济学",
+        "author": "Amartya Sen",
+        "classify": "发展经济学",
+        "price": 59.99,
+        "publish_date": "1999-11",
+        "press": "Oxford University Press",
+        "summary": "这本书探讨了发展经济学领域的理论和实践，包括贫困、不平等、人权等发展问题。"
+    },
+    {
+        "book_name": "微观经济学",
+        "author": "Robert S. Pindyck, Daniel L. Rubinfeld",
+        "classify": "微观经济学",
+        "price": 74.99,
+        "publish_date": "2017-08",
+        "press": "Pearson",
+        "summary": "该书深入研究了微观经济学的主题，包括消费者理论、生产者理论和市场结构等。"
+    },
+    {
+        "book_name": "宏观经济学",
+        "author": "N. Gregory Mankiw",
+        "classify": "宏观经济学",
+        "price": 79.99,
+        "publish_date": "2018-06",
+        "press": "Worth Publishers",
+        "summary": "这本书介绍了宏观经济学的原理和政策，包括国民收入、通货膨胀、失业等宏观经济问题。"
+    },
+    {
+        "book_name": "国际经济学",
+        "author": "Paul Krugman, Maurice Obstfeld, Marc Melitz",
+        "classify": "国际经济学",
+        "price": 88.99,
+        "publish_date": "2019-04",
+        "press": "Pearson",
+        "summary": "该书涵盖了国际贸易和国际货币体系的理论和政策，包括关税、汇率、贸易政策等国际经济主题。"
+    },
+    {
+        "book_name": "经济学的思维方式",
+        "author": "Paul Heyne",
+        "classify": "经济学方法论",
+        "price": 49.99,
+        "publish_date": "2015-12",
+        "press": "Liberty Fund",
+        "summary": "这本书讨论了经济学的思考方式，帮助读者理解和应用经济学原理来解决问题。"
+    },
+    {
+        "book_name": "行为经济学",
+        "author": "Richard H. Thaler",
+        "classify": "行为经济学",
+        "price": 65.99,
+        "publish_date": "2008-09",
+        "press": "Penguin Books",
+        "summary": "本书介绍了行为经济学的理论和实践，探讨了人们在经济决策中的非理性行为。"
+    },
+    {
+        "book_name": "货币金融学",
+        "author": "Frederic S. Mishkin",
+        "classify": "货币金融学",
+        "price": 69.99,
+        "publish_date": "2019-11",
+        "press": "Pearson",
+        "summary": "该书涵盖了货币市场、中央银行政策、货币供应等货币金融学的主题。"
+    },
+    {
+        "book_name": "环境经济学",
+        "author": "Barry C. Field, Martha K. Field",
+        "classify": "环境经济学",
+        "price": 54.99,
+        "publish_date": "2018-07",
+        "press": "McGraw-Hill Education",
+        "summary": "这本书探讨了环境经济学领域的理论和政策，包括环境保护、资源管理等问题。"
+    },
+    {
+        "book_name": "政治经济学",
+        "author": "Robert Gilpin",
+        "classify": "政治经济学",
+        "price": 58.99,
+        "publish_date": "2016-03",
+        "press": "Princeton University Press",
+        "summary": "本书分析了政治和经济之间的相互关系，研究了国际政治经济学的问题。"
+    }
+]

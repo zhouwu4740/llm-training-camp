@@ -1,0 +1,92 @@
+[
+    {
+        "book_name": "Python 编程入门",
+        "author": "Eric Matthes",
+        "classify": "编程语言",
+        "price": 59.99,
+        "publish_date": "2020-03",
+        "press": "No Starch Press",
+        "summary": "这本书是初学者学习 Python 编程的绝佳选择，包含大量示例和练习，逐步引导读者掌握 Python 编程基础。"
+    },
+    {
+        "book_name": "深度学习",
+        "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+        "classify": "人工智能",
+        "price": 89.99,
+        "publish_date": "2016-11",
+        "press": "MIT Press",
+        "summary": "这是一本关于深度学习的经典教材，覆盖深度学习的基本原理和应用。"
+    },
+    {
+        "book_name": "计算机网络: 自顶向下方法",
+        "author": "James F. Kurose, Keith W. Ross",
+        "classify": "网络",
+        "price": 79.99,
+        "publish_date": "2016-06",
+        "press": "Pearson",
+        "summary": "该书详细介绍了计算机网络的原理和协议，是学习网络通信的重要参考书籍。"
+    },
+    {
+        "book_name": "算法导论",
+        "author": "Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein",
+        "classify": "算法",
+        "price": 69.99,
+        "publish_date": "2009-07",
+        "press": "The MIT Press",
+        "summary": "这本书介绍了算法设计和分析的基础知识，是计算机科学领域的经典教材。"
+    },
+    {
+        "book_name": "数据科学导论",
+        "author": "Joel Grus",
+        "classify": "数据科学",
+        "price": 49.99,
+        "publish_date": "2016-04",
+        "press": "O'Reilly Media",
+        "summary": "本书提供了数据科学入门的指导，包括数据分析、机器学习和数据可视化的基础知识。"
+    },
+    {
+        "book_name": "操作系统概念",
+        "author": "Abraham Silberschatz, Peter B. Galvin, Greg Gagne",
+        "classify": "操作系统",
+        "price": 79.99,
+        "publish_date": "2018-03",
+        "press": "Wiley",
+        "summary": "该书介绍了操作系统的基本概念和原理，是操作系统课程的标准教材。"
+    },
+    {
+        "book_name": "Web开发权威指南",
+        "author": "Eric Freeman, Elisabeth Robson, Kathy Sierra, Bert Bates",
+        "classify": "Web开发",
+        "price": 69.99,
+        "publish_date": "2006-11",
+        "press": "O'Reilly Media",
+        "summary": "这本书全面介绍了 Web 开发的各个方面，包括前端和后端开发技术。"
+    },
+    {
+        "book_name": "计算机体系结构: 量子计算和并行计算",
+        "author": "Kai Hwang, Faye A. Briggs",
+        "classify": "计算机体系结构",
+        "price": 89.99,
+        "publish_date": "2008-10",
+        "press": "McGraw-Hill Education",
+        "summary": "这本书涵盖了计算机体系结构的现代话题，包括量子计算和并行计算。"
+    },
+    {
+        "book_name": "人机交互: 设计原理与实践",
+        "author": "Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel",
+        "classify": "人机交互",
+        "price": 59.99,
+        "publish_date": "2014-06",
+        "press": "Wiley",
+        "summary": "本书探讨了人机交互的设计原理和最佳实践，帮助设计师创建用户友好的应用和界面。"
+    },
+    {
+        "book_name": "大数据时代",
+        "author": "Viktor Mayer-Schönberger, Kenneth Cukier",
+        "classify": "大数据",
+        "price": 49.99,
+        "publish_date": "2013-03",
+        "press": "Houghton Mifflin Harcourt",
+        "summary": "这本书探讨了大数据对社会和业务的影响，以及如何在大数据时代中获得洞见。"
+    }
+]

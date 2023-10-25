@@ -1,0 +1,92 @@
+[
+    {
+        "book_name": "金融市场学",
+        "author": "William F. Sharpe, Gordon J. Alexander, Jeffrey V. Bailey",
+        "classify": "金融学",
+        "price": 79.99,
+        "publish_date": "2018-05",
+        "press": "Pearson",
+        "summary": "这本书介绍了金融市场的基本原理和运作方式，涵盖了股票、债券、衍生品等金融工具。"
+    },
+    {
+        "book_name": "金融工程学",
+        "author": "Paul P. Dorfman",
+        "classify": "金融工程",
+        "price": 69.99,
+        "publish_date": "2019-09",
+        "press": "Wiley",
+        "summary": "该书探讨了金融工程领域的数学、统计和计算方法，以及金融市场的风险管理。"
+    },
+    {
+        "book_name": "证券分析与投资组合管理",
+        "author": "Frank K. Reilly, Keith C. Brown",
+        "classify": "证券分析",
+        "price": 89.99,
+        "publish_date": "2020-02",
+        "press": "Cengage Learning",
+        "summary": "这本书介绍了证券分析和投资组合管理的理论和实践，帮助读者更好地理解股票和债券市场。"
+    },
+    {
+        "book_name": "金融市场的微观结构",
+        "author": "Larry Harris",
+        "classify": "金融市场",
+        "price": 76.99,
+        "publish_date": "2017-11",
+        "press": "Princeton University Press",
+        "summary": "本书探讨了金融市场的微观结构，包括交易、价格形成和市场效率等方面的内容。"
+    },
+    {
+        "book_name": "国际金融管理",
+        "author": "Cheol S. Eun, Bruce G. Resnick",
+        "classify": "国际金融",
+        "price": 82.99,
+        "publish_date": "2018-08",
+        "press": "McGraw-Hill Education",
+        "summary": "这本书涵盖了国际金融市场、外汇市场、国际资本预算等国际金融领域的主题。"
+    },
+    {
+        "book_name": "金融数学",
+        "author": "Martin Baxter, Andrew Rennie",
+        "classify": "金融数学",
+        "price": 59.99,
+        "publish_date": "2015-06",
+        "press": "Wiley",
+        "summary": "该书介绍了金融数学的基本概念和工具，包括期权定价、风险管理等方面的数学方法。"
+    },
+    {
+        "book_name": "银行管理",
+        "author": "Peter S. Rose, Sylvia C. Hudgins",
+        "classify": "银行业",
+        "price": 72.99,
+        "publish_date": "2019-04",
+        "press": "McGraw-Hill Education",
+        "summary": "这本书涵盖了银行业管理的各个方面，包括银行运营、风险管理、资本充足度等内容。"
+    },
+    {
+        "book_name": "投资分析与管理",
+        "author": "Frank K. Reilly, Keith C. Brown",
+        "classify": "投资管理",
+        "price": 74.99,
+        "publish_date": "2020-11",
+        "press": "Cengage Learning",
+        "summary": "该书介绍了投资分析和资产管理的原理，包括投资组合构建和绩效评估。"
+    },
+    {
+        "book_name": "金融市场与机构",
+        "author": "Jeff Madura",
+        "classify": "金融市场",
+        "price": 67.99,
+        "publish_date": "2016-09",
+        "press": "Cengage Learning",
+        "summary": "这本书涵盖了金融市场和金融机构的基本原理，包括银行、保险公司、证券公司等。"
+    },
+    {
+        "book_name": "金融风险管理",
+        "author": "Steve L. Allen",
+        "classify": "风险管理",
+        "price": 68.99,
+        "publish_date": "2018-03",
+        "press": "Wiley",
+        "summary": "本书介绍了金融风险管理的理论和实践，包括市场风险、信用风险、操作风险等。"
+    }
+]
