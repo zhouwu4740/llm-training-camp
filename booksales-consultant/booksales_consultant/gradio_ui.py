@@ -1,6 +1,6 @@
 import gradio as gr
 from book_consultant import CONSULTANT
-from logger import LOGGER as logger
+from utils import logger
 
 
 def ask(question, history):

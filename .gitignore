@@ -1,3 +1,8 @@
 .idea/
 **/.ipynb_checkpoints/**
 **/flagged/**
+**/ __pycache__/**
+**/__pycache__/
+**/logs/*.log
+logs/*.log
+booksales-consultant/booksales_consultant/logs/app.log

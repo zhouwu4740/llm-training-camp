@@ -18,6 +18,8 @@ gradio = "^3.50.2"
 pydantic = "^2.4.2"
 loguru = "^0.7.2"
 flask = "^3.0.0"
+chromadb = "^0.4.15"
+sentence-transformers = "^2.2.2"
 
 
 [build-system]

@@ -1,14 +1,11 @@
-from typing import Any
-
 from langchain.chains import RetrievalQA
 from langchain.vectorstores.faiss import FAISS
 from langchain.llms import OpenAI
 from langchain.embeddings import OpenAIEmbeddings
-from pydantic import BaseModel
 from langchain.schema.language_model import BaseLanguageModel
 from langchain.schema.embeddings import Embeddings
 from prompt import prompt
-from logger import LOGGER as logger
+from utils import logger
 
 
 class BookConsultant:
