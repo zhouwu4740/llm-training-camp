@@ -34,4 +34,4 @@ python gradio_ui.py
 
 ### 实现流程
 
-<img src="resources/flowchart.png" alt="实现流程图">
+<img src="resources/flowchart.svg" alt="实现流程图">
