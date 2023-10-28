@@ -6,7 +6,7 @@
 
 本项目图书知识库数据生成于ChatGPT，数据集包含了图书的名称、作者、出版社、出版日期、价格等信息，以及图书的简介、目录、前言等内容。
 
-数据并为做真实验证，仅用于本项目的演示。
+数据并未做真实验证，仅用于演示使用。
 
 数据文件可以在[这里](resources)
 查看，原始语料请参阅[ChatGPT](https://chat.openai.com/share/5b031b99-8543-4cc7-835d-681880d4c236)
@@ -27,7 +27,7 @@ python gradio_ui.py
 
 ### 主要文件
 
-- book_sales_consultant.py: 图书销售顾问主程序
+- book_sales_consultant.py: 图书顾问主程序
 - shopping_cart.py: 购物车模块
 - bookstore.py: 图书语料库
 - gradio_ui.py: Gradio UI
