@@ -31,3 +31,7 @@ python gradio_ui.py
 - shopping_cart.py: 购物车模块
 - bookstore.py: 图书语料库
 - gradio_ui.py: Gradio UI
+
+### 实现流程
+
+<img src="resources/flowchart.png" alt="实现流程图">
