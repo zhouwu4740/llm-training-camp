@@ -21,6 +21,13 @@ python gradio_ui.py
 ### 特性
 
 - [x] 咨询问答
-- [ ] 购物车
+- [x] 购物车
 - [ ] 订单管理
 - [ ] 添加书籍
+
+### 主要文件
+
+- book_sales_consultant.py: 图书销售顾问主程序
+- shopping_cart.py: 购物车模块
+- bookstore.py: 图书语料库
+- gradio_ui.py: Gradio UI
