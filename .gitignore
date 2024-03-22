@@ -6,3 +6,4 @@
 **/logs/*.log
 logs/*.log
 booksales-consultant/booksales_consultant/logs/app.log
+.venv/
